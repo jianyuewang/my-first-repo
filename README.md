@@ -1,2 +1,6 @@
 # my-first-repo
-My name is Wang Jianyue, and I am currently an MSF student at Brandeis University with a concentration in Corporate Finance. Presently, I am preparing for the FRM and CFA examinations, hoping to enhance my professional qualifications.In terms of my career, I hope I can secure an internship in the finance sector, and 
+My name is Wang Jianyue, and I am currently an MSF student at Brandeis University with a concentration in Corporate Finance. Presently, I am preparing for the FRM and CFA examinations, hoping to enhance my professional qualifications.In terms of my career, I hope I can secure an internship in the finance field.
+## Haomiao's info
+I am currently pursuing a Master's degree in Finance at Brandeis University, having completed a bachelor's degree in Economics at James Madison University. My academic background and coursework have primarily focused on fixed-income markets, corporate finance, data analysis and visualization.
+## Xinyi's info
+My name is Li Xinyi, and I'm pursuing my MBA degree at Brandeis University. I earned my bachelor's degree in Economics from Jiangsu University, during which I was introduced to core subjects like Financial Markets, Monetary Policy, Financial Econometrics, Retail Banking, Asset Management, and Regulatory Banking. I am keen on securing an internship in asset management or with a hedge fund to deepen my practice experience.
