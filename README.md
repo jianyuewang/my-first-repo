@@ -3,3 +3,4 @@ My name is Wang Jianyue, and I am currently an MSF student at Brandeis Universit
 ## Haomiao's info
 I am currently pursuing a Master's degree in Finance at Brandeis University, having completed a bachelor's degree in Economics at James Madison University. My academic background and coursework have primarily focused on fixed-income markets, corporate finance, data analysis and visualization.
 
+Ziyang Deng, a second year MSF student
